@@ -1,0 +1,30 @@
+.item{
+    width:340px; padding:10px;
+    margin:10px; background-color:#efefef;
+    text-align:center; height:350px;
+    line-height:30px;
+    display:inline-block; vertical-align:top;
+}
+
+.item:hover{
+    background-color:#f7f7f7
+}
+
+.Description{
+    width:360px; padding:0px;
+    margin:0px; background-color:white;
+    text-align:center; height:60px;
+    line-height:30px;
+    display:inline-block; vertical-align:top;
+    background-color: #eeeeee00;
+}
+
+#ItemList{
+    position: relative;
+    left: 12%; top: +15px;
+}
+
+.img{
+    height: 340px; width: 340px;
+    padding: 35px;
+}
